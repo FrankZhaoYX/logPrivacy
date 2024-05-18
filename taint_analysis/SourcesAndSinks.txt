@@ -1,0 +1,6 @@
+<android.telephony.TelephonyManager: java.lang.String getDeviceId()> -> _SOURCE_
+<android.support.v7.app.AppCompatActivity: void startActivityForResult(android.content.Intent,int)> -> _SINK_
+<android.util.Log: int i(java.lang.String,java.lang.String)>  -> _SINK_
+<android.util.Log: int d(java.lang.String,java.lang.String)>  -> _SINK_
+<android.telephony.TelephonyManager: java.lang.String getDeviceId()> -> _SOURCE_
+<android.widget.EditText: android.text.Editable getText ()> -> _SOURCE_
